@@ -1,0 +1,16 @@
+D:\birdsgroup(jahangir)\HRM_BLL\bin\Debug\HRM_BLL.dll
+D:\birdsgroup(jahangir)\HRM_BLL\bin\Debug\HRM_BLL.pdb
+D:\birdsgroup(jahangir)\HRM_BLL\obj\Debug\HRM_BLL.dll
+D:\birdsgroup(jahangir)\HRM_BLL\obj\Debug\HRM_BLL.pdb
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_BLL\bin\Debug\HRM_BLL.dll
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_BLL\bin\Debug\HRM_BLL.pdb
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_BLL\obj\Debug\HRM_BLL.dll
+G:\(Assignment)\hrms\birdsgroup(jahangir)\HRM_BLL\obj\Debug\HRM_BLL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_BLL\bin\Debug\HRM_BLL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_BLL\bin\Debug\HRM_BLL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_BLL\obj\Debug\HRM_BLL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final_project\New folder\HRM_BLL\obj\Debug\HRM_BLL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_BLL\bin\Debug\HRM_BLL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_BLL\bin\Debug\HRM_BLL.pdb
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_BLL\obj\Debug\HRM_BLL.dll
+H:\Local Disk\IDB\Core\r-33\Module-6\Project\Final\HRM_BLL\obj\Debug\HRM_BLL.pdb
